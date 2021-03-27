@@ -1,7 +1,7 @@
 <?php
 
 function pregunta()
-{   /* comentario prueba */
+{   /* comentario prueba II*/
     /**
      * *
      * Funcion que retorna un booleano de modo de pregunta para hacer un ciclo interactivo al menu.
